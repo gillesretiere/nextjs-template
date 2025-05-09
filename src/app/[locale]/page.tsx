@@ -6,17 +6,17 @@ export default function DashboardPage() {
   return (
     <div>
       <section className='flex flex-col items-center justify-center py-24'>
-        <h1 className='text-center text-7xl font-extrabold leading-tight'>
-          {t('An')}{' '}
+        <h1 className='text-center text-5xl md:text-7xl font-thin tracking-tight leading-tight'>
+          {t('With_the')}{' '}
           <span className='bg-span-bg bg-clip-text text-transparent'>
-            {t('Booster')}
+            {t('Saynètes')}
           </span>
           <br />
-          {t('to_Your_NextJS_Apps')}
+          {t('Master_your_communication_with_non-native_speakers')}
         </h1>
         <div className='my-6 px-20 text-center text-2xl text-text-secondary'>
           {t(
-            'An_approachable_performant_and_versatile_boilerplate_for_building_SSR_applications'
+            'Help_break_down_language_barriers_and_cultural_misunderstandings'
           )}
         </div>
         <div className='mt-4 flex flex-row gap-4'>
@@ -25,7 +25,7 @@ export default function DashboardPage() {
             target='_blank'
           >
             <Button rounded size='large'>
-              {t('Use_Template')}
+              {t('Get_started')}
             </Button>
           </a>
           <a

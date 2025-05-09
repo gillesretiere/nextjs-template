@@ -2,6 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
+@import url('https://use.typekit.net/tjn2ftb.css');
+
 @layer base {
   :root {
     --primary: #333366;
@@ -18,6 +20,8 @@
     --logo-shadow: #053949;
     --logo-body: #00d8fe;
     --span-bg: linear-gradient(to right, #4e4e9e, #097fa5, #3e87ed);
+    font-family: articulat-cf, sans-serif;
+
   }
   .dark {
     --primary: #d6deff;

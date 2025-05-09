@@ -16,11 +16,12 @@ export const Header: FC<Props> = ({ locale }) => {
       <Link lang={locale} href='/'>
         <div className='flex flex-row items-center'>
           <img src="/logo.png" className='mr-4 w-12'></img>
-          <span className='text-xs lg:text-lg xl:text-xl mx-2 select-none'>Hammer &amp; Marteau</span>
+
+          <span className='text-xs lg:text-lg xl:text-xl mx-2 select-none hidden sm:block'>Hammer &amp; Marteau</span>
         </div>
       </Link>
-      <div className='flex flex-row items-center gap-3'>
-        <nav className='mr-10 inline-flex gap-5'>
+      <div className='flex flex-row items-center gap-3 text-xs font-thin whitespace-nowrap'>
+        <nav className='mx-4 inline-flex gap-5'>
           <Link lang={locale} href={`/about`}>
             {t('About')}
           </Link>

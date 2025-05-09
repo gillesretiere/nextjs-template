@@ -44,7 +44,7 @@ export default function ThemeSwitch() {
         aria-expanded={isOpen}
         onClick={toggleDropdown}
       >
-        <span className='ml-2'>{t('Theme')}</span>
+        <span className='ml-2 text-xs'>{t('Theme')}</span>
         <FiSun />
       </Button>
       {isOpen && (
