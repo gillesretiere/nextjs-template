@@ -9,7 +9,12 @@
   "An_approachable_performant_and_versatile_boilerplate_for_building_SSR_applications": "Доступный, производительный и универсальный шаблон для создания SSR-приложений.",
   "Use_Template": "Использовать шаблон",
   "Learn_More": "Узнать больше!",
-  "Approachable": "Доступный",
+  "Approachable": "Легко",
+  "Easy_and_Accessible": "Легко и доступно. Вы пишете содержание каждой сцены (диалоги и словарь с ключевыми словами). Мы заботимся о переводах и иллюстрациях, согласно вашим требованиям.",
+  "Modular": "Модульный",
+  "Modular_and_Expandable": "Модульный и расширяемый. В зависимости от выбранной темы и поставленной цели каждая сцена может быть независимой или частью серии из нескольких сцен.",
+  "Accurate": "Точно",
+  "Accurate_and_Reliable": "Точно и надежно. Тексты и лексика предварительно переводятся ИИ, затем проверяются и адаптируются опытными профессиональными переводчиками.",
   "Add_components_without_sending_additional_client_side_JavaScript_Built_on_the_latest_React_features": "Добавляйте компоненты без отправки дополнительного клиентского JavaScript. Сделано на основе последних возможностей React.",
   "Automatic_Image_Font_and_Script_Optimizations_for_improved_UX_and_Core_Web_Vitals": "Автоматическая оптимизация изображений, шрифтов и скриптов для улучшения UX и основных веб-показателей.",
   "Versatile": "Универсальный",
@@ -20,6 +25,14 @@
   "Saynètes": "Сценками",
   "Master_your_communication_with_non-native_speakers": "Совершенствуйте свое общение с людьми, не говорящими по-французски",
   "Help_break_down_language_barriers_and_cultural_misunderstandings": "Помогите преодолеть языковые барьеры и культурные недоразумения.",
-  "Get_started": "Начать"
+  "Get_started": "Начать",
+  "Scene_1x1": "Сцена 1x1",
+  "1x1_description": "1 эскиз x 1 язык (в дополнение к французскому)",
+  "Serie_1x5": "Серия 1х5",
+  "1x5_description": "1 эскиз x 5 языков (помимо французского)",
+  "Scene_by_Language": "/сцена/язык",
+  "Custom_Solution": "Индивидуальные решения",
+  "If_you_have_any_special_requests": "Если у вас есть особые пожелания",
+  "Contact_us": "Связаться с нами"
 
 }

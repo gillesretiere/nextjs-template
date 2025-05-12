@@ -10,6 +10,11 @@
   "Use_Template": "استخدم القالب",
   "Learn_More": "اعرف المزيد!",
   "Approachable": "سهل الوصول",
+  "Easy_and_Accessible": "سهل وواضح. اكتب محتوى كل مشهد (الحوارات والمفردات مع الكلمات المفتاحية). نتولى الترجمة والرسوم التوضيحية وفقًا لمتطلباتك.",
+  "Modular": "نموذجي",
+  "Modular_and_Expandable": "نموذجي وقابل للتوسيع. بناءً على الموضوع المختار والهدف المنشود، يمكن أن يكون كل مشهد مستقلاً أو جزءًا من سلسلة من عدة مشاهد.",
+  "Accurate": "دقيقة",
+  "Accurate_and_Reliable": "دقيقة وموثوقة. تُترجم النصوص والمفردات مسبقًا باستخدام الذكاء الاصطناعي، ثم تُراجع وتُعدّل من قِبل مترجمين فوريين محترفين ذوي خبرة.",
   "Add_components_without_sending_additional_client_side_JavaScript_Built_on_the_latest_React_features": "أضف مكونات دون إرسال JavaScript إضافي على جانب العميل، مبني على أحدث ميزات React.",
   "Automatic_Image_Font_and_Script_Optimizations_for_improved_UX_and_Core_Web_Vitals": "تحسينات تلقائية للصور والخطوط والسكريبتات لتحسين تجربة المستخدم والمقاييس الأساسية للويب.",
   "Versatile": "متعدد الاستخدامات",
@@ -20,7 +25,13 @@
   "Saynètes": "Saynètes",
   "Master_your_communication_with_non-native_speakers": "قم بتحسين تواصلك مع الأشخاص غير الناطقين بالفرنسية",
   "Help_break_down_language_barriers_and_cultural_misunderstandings": "المساعدة في كسر الحواجز اللغوية وسوء الفهم الثقافي",
-  "Get_started": "البدء"
-
-
+  "Get_started": "البدء",
+  "Scene_1x1": "المشهد 1x1",
+  "Serie_1x5": "السلسلة 1x5",
+  "1x1_description": "رسم تخطيطي واحد × لغة واحدة (بالإضافة إلى الفرنسية)",
+  "1x5_description": "1 رسم تخطيطي × 5 لغات (بالإضافة إلى الفرنسية)",
+  "Scene_by_Language": "/المشهد/اللغة",
+  "Custom_Solution": "حلول مخصصة",
+  "If_you_have_any_special_requests": "إذا كان لديك أي طلبات خاصة",
+  "Contact_us": "اتصل بنا"
 }

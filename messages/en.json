@@ -10,7 +10,11 @@
   "Use_Template": "Use Template",
   "Learn_More": "Learn More!",
   "Approachable": "Approachable",
-  "Add_components_without_sending_additional_client_side_JavaScript_Built_on_the_latest_React_features": "Add components without sending additional client-side JavaScript. Built on the latest React features.",
+  "Easy_and_Accessible": "Easy and approachable. You write the content of each scene (dialogues and vocabulary with keywords). We take care of the translations and illustrations, according to your requirements.",
+  "Modular": "Modular",
+  "Modular_and_Expandable": "Modular and expandable. Depending on the chosen theme and the intended objective, each scene can be independent or part of a series of several scenes. ",
+  "Accurate": "Accurate",
+  "Accurate_and_Reliable": "Accurate and reliable. Texts and vocabulary are pre-translated by AI, then reviewed and adapted by experienced professional interpreters.",
   "Automatic_Image_Font_and_Script_Optimizations_for_improved_UX_and_Core_Web_Vitals": "Automatic Image, Font, and Script Optimizations for improved UX and Core Web Vitals.",
   "Versatile": "Versatile",
   "A_rich_incredibly_adoptable_template_that_scales_between_a_small_showcase_website_and_a_full_size_app": "A rich, incredibly adoptable template that scales between a small showcase website and a full-size app.",
@@ -20,6 +24,14 @@
   "Saynètes": "Saynètes",
   "Master_your_communication_with_non-native_speakers": "Master your Communication with non-Native Speakers",
   "Help_break_down_language_barriers_and_cultural_misunderstandings": "Help break down language barriers and cultural misunderstandings",
-  "Get_started": "Get started"
+  "Get_started": "Get started",
+  "Scene_1x1": "Sketch 1x1",
+  "Serie_1x5": "1x5 Series",
+  "1x1_description": "1 sketch x 1 language (in addition to French)",
+  "1x5_description": "1 sketch x 5 languages ​​(in addition to French)",
+  "Scene_by_Language": "/sketch/language",
+  "Custom_Solution": "Custom solutions",
+  "If_you_have_any_special_requests": "If you have any special requests",
+  "Contact_us": "Contact us"
 
 }

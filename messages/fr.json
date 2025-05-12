@@ -10,6 +10,11 @@
   "Use_Template": "Utiliser le modèle",
   "Learn_More": "En savoir plus !",
   "Approachable": "Accessible",
+  "Easy_and_Accessible": "Facile et accessible. Vous rédigez le contenu de chaque scène (dialogues et vocabulaire avec mots-clés). Nous nous occupons des traductions et des illustrations, selon vos besoins.",
+  "Modular": "Modulaire",
+  "Modular_and_Expandable": "Modulaire et extensible. Selon le thème choisi et l'objectif visé, chaque saynète peut être indépendante ou peut faire partie d'une série de plusieurs saynètes.",
+  "Accurate": "Précis et fiable",
+  "Accurate_and_Reliable": "Précis et fiable. Les textes et les mots de vocabulaire sont pré-traduits par de l'IA, puis revus et adaptés par des interprètes professionnels expérimentés.",
   "Add_components_without_sending_additional_client_side_JavaScript_Built_on_the_latest_React_features": "Ajoutez des composants sans envoyer de JavaScript supplémentaire côté client. Basé sur les dernières fonctionnalités de React.",
   "Automatic_Image_Font_and_Script_Optimizations_for_improved_UX_and_Core_Web_Vitals": "Optimisations automatiques des images, des polices et des scripts pour améliorer l'UX et les Core Web Vitals.",
   "Versatile": "Polyvalent",
@@ -20,6 +25,15 @@
   "Saynètes": "Saynètes",
   "Master_your_communication_with_non-native_speakers": "Maîtrisez votre communication avec les non-francophones",
   "Help_break_down_language_barriers_and_cultural_misunderstandings": "Contribuez à lever les barrières de la langues et les incompréhensions culturelles",
-  "Get_started": "Découvrir"
+  "Get_started": "Découvrir",
+  "Scene_1x1": "Saynète 1x1",
+  "1x1_description": "1 saynète x 1 langue (en plus du français)",
+  "Serie_1x5": "Série 1x5",
+  "1x5_description": "1 saynète x 5 langues (en plus du français)",
+  "Scene_by_Language": "/saynète/langue",
+  "Custom_Solution": "Solutions personnalisées",
+  "If_you_have_any_special_requests": "Si vous avez des demandes particulières",
+  "Contact_us": "Contactez-nous"
+
 
 }

@@ -10,6 +10,11 @@
   "Use_Template": "Usar plantilla",
   "Learn_More": "¡Aprende más!",
   "Approachable": "Accesible",
+  "Easy_and_Accessible": "Fácil y accesible. Tú escribes el contenido de cada escena (diálogos y vocabulario con palabras clave). Nosotros nos encargamos de las traducciones e ilustraciones, según tus necesidades.",
+  "Modular": "Modular",
+  "Modular_and_Expandable": "Modular y ampliable. Según el tema elegido y el objetivo, cada escena puede ser independiente o formar parte de una serie de varias.",
+  "Accurate": "Preciso",
+  "Accurate_and_Reliable": "Preciso y confiable. Los textos y el vocabulario son pretraducidos por IA y luego revisados ​​y adaptados por intérpretes profesionales con experiencia.",
   "Add_components_without_sending_additional_client_side_JavaScript_Built_on_the_latest_React_features": "Agrega componentes sin enviar JavaScript adicional del lado del cliente. Construido sobre las últimas características de React.",
   "Automatic_Image_Font_and_Script_Optimizations_for_improved_UX_and_Core_Web_Vitals": "Optimizaciones automáticas de imágenes, fuentes y scripts para mejorar la UX y los Core Web Vitals.",
   "Versatile": "Versátil",
@@ -20,7 +25,14 @@
   "Saynètes": "Saynètes",
   "Master_your_communication_with_non-native_speakers": "Domina tu Comunicación con Hablantes no Nativos",
   "Help_break_down_language_barriers_and_cultural_misunderstandings": "Ayude a romper las barreras lingüísticas y los malentendidos culturales.",
-  "Get_started": "Empezar"
-
+  "Get_started": "Empezar",
+  "Scene_1x1": "Escena 1x1",
+  "1x1_description": "1 boceto x 1 idioma (además del francés)",
+  "Serie_1x5": "Serie 1x5",
+  "1x5_description": "1 boceto x 5 idiomas (además del francés)",
+  "Scene_by_Language": "/escena/idioma",
+  "Custom_Solution": "Soluciones personalizadas",
+  "If_you_have_any_special_requests": "Si tienes alguna petición especial",
+  "Contact_us": "Contacta con nosotros"
 
 }

@@ -50,23 +50,23 @@ export default function DashboardPage() {
             <h2 className='mb-3  text-xl font-semibold'>{t('Approachable')}</h2>
             <p className='text-text-secondary max-lg:max-w-[500px]'>
               {t(
-                'Add_components_without_sending_additional_client_side_JavaScript_Built_on_the_latest_React_features'
+                'Easy_and_Accessible'
               )}
             </p>
           </div>
           <div className='text-center'>
-            <h2 className='mb-3 text-xl font-semibold'>{t('Versatile')}</h2>
+            <h2 className='mb-3 text-xl font-semibold'>{t('Modular')}</h2>
             <p className='text-text-secondary max-lg:max-w-[500px]'>
               {t(
-                'Automatic_Image_Font_and_Script_Optimizations_for_improved_UX_and_Core_Web_Vitals'
+                'Modular_and_Expandable'
               )}
             </p>
           </div>
           <div className='text-center'>
-            <h2 className='mb-3 text-xl font-semibold'>{t('Performant')}</h2>
+            <h2 className='mb-3 text-xl font-semibold'>{t('Accurate')}</h2>
             <p className='text-text-secondary max-lg:max-w-[500px]'>
               {t(
-                'A_rich_incredibly_adoptable_template_that_scales_between_a_small_showcase_website_and_a_full_size_app'
+                'Accurate_and_Reliable'
               )}
             </p>
           </div>
@@ -77,44 +77,38 @@ export default function DashboardPage() {
         <div className='mx-auto grid max-w-screen-lg grid-cols-3 gap-7 px-8 py-5 max-lg:max-w-fit max-lg:grid-cols-1 max-lg:gap-10'>
 
           <div className='relative rounded-2xl bg-background-secondary shadow-lg text-left px-10 py-10'>
-            <h2 className='mb-3 text-xl font-semibold'>{t('Discovery 1x1')}</h2>
+            <h2 className='mb-3 text-xl font-semibold'>{t('Scene_1x1')}</h2>
             <p className='text-text-secondary max-lg:max-w-[500px]'>
-              {t(
-                'Formule la plus simple : une saynète, une langue (en plus du français)'
-              )}
+              {t('1x1_description')}
             </p>
             <h1 className='my-3 text-5xl font-semibold'>
               990€
               <span className='text-xs font-light'>
-                /saynète/langue
+                {t('Scene_by_Language')}
               </span>
             </h1>
           </div>
 
           <div className='relative rounded-2xl bg-background-secondary shadow-lg border border-secondary text-left px-10 py-10'>
-            <h2 className='mb-3 text-xl font-semibold'>{t('Série 1x5')}</h2>
+            <h2 className='mb-3 text-xl font-semibold'>{t('Serie_1x5')}</h2>
             <p className='text-text-secondary max-lg:max-w-[500px]'>
-              {t(
-                "Formule recommandée : sur la base d'une saynète, 5 langues (en plus du français)"
-              )}
+              {t('1x5_description')}
             </p>
             <h1 className='my-3 text-5xl font-semibold'>
               890€
               <span className='text-xs font-light'>
-                /saynète/langue
+                {t('Scene_by_Language')}
               </span>
             </h1>
           </div>
 
           <div className='relative rounded-2xl bg-background-secondary shadow-lg text-left px-10 py-10'>
-            <h2 className='mb-3 text-xl font-semibold'>{t('Sur mesure')}</h2>
+            <h2 className='mb-3 text-xl font-semibold'>{t('Custom_Solution')}</h2>
             <p className='text-text-secondary max-lg:max-w-[500px]'>
-              {t(
-                'Si vous souhaitez des développements particuliers'
-              )}
+              {t('If_you_have_any_special_requests')}
             </p>
             <h1 className='my-3 text-2xl font-semibold'>
-              Nous contacter
+              {t('Contact_us')}
             </h1>
           </div>
         </div>

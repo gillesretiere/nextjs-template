@@ -9,7 +9,12 @@
   "An_approachable_performant_and_versatile_boilerplate_for_building_SSR_applications": "یک تیمپلت قابل دسترس، کارآمد و چندمنظوره برای ساخت پروژه های SSR.",
   "Use_Template": "استفاده از الگو",
   "Learn_More": "بیشتر بیاموزید!",
-  "Approachable": "قابل دسترس",
+  "Approachable": "آسان",
+  "Easy_and_Accessible": "آسان و قابل فهم. شما محتوای هر صحنه (دیالوگ‌ها و واژگان به همراه کلمات کلیدی) را می‌نویسید. ما ترجمه‌ها و تصاویر را مطابق با نیازهای شما انجام می‌دهیم.",
+  "Modular": "مدولار",
+  "Modular_and_Expandable": "مدولار و قابل توسعه. بسته به موضوع انتخاب شده و هدف مورد نظر، هر صحنه می‌تواند مستقل یا بخشی از مجموعه‌ای از چندین صحنه باشد.",
+  "Accurate": "دقیق",
+  "Accurate_and_Reliable": "دقیق و قابل اعتماد. متون و واژگان توسط هوش مصنوعی از قبل ترجمه می‌شوند، سپس توسط مترجمان حرفه‌ای و باتجربه بررسی و تطبیق داده می‌شوند.",
   "Add_components_without_sending_additional_client_side_JavaScript_Built_on_the_latest_React_features": "اضافه کردن اجزا بدون ارسال جاوااسکریپت اضافی در سمت مشتری. ساخته شده بر اساس جدیدترین ویژگی‌های React.",
   "Automatic_Image_Font_and_Script_Optimizations_for_improved_UX_and_Core_Web_Vitals": "بهینه‌سازی خودکار تصاویر، فونت‌ها و اسکریپت‌ها برای بهبود UX و شاخص‌های اصلی وب.",
   "Versatile": "چندمنظوره",
@@ -20,7 +25,15 @@
   "Saynètes": "Saynètes",
   "Master_your_communication_with_non-native_speakers": "ارتباط خود را با افراد غیر فرانسوی زبان بهینه کنید",
   "Help_break_down_language_barriers_and_cultural_misunderstandings": "به رفع موانع زبانی و سوءتفاهم‌های فرهنگی کمک کنید",
-  "Get_started": "شروع کنید"
+  "Get_started": "شروع کنید",
+  "Scene_1x1": "صحنه ۱x۱",
+  "1x1_description": "۱ طرح × ۱ زبان (علاوه بر فرانسوی)",
+  "Serie_1x5": "سری ۱x۵",
+  "1x5_description": "۱ طرح × ۵ زبان (علاوه بر فرانسوی)",
+  "Scene_by_Language": "/صحنه/زبان",
+  "Custom_Solution": "راهکارهای سفارشی",
+  "If_you_have_any_special_requests": "اگر درخواست خاصی دارید",
+  "Contact_us": "تماس با ما"
   
 
 }

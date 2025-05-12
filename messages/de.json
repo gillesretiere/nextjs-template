@@ -9,7 +9,12 @@
   "An_approachable_performant_and_versatile_boilerplate_for_building_SSR_applications": "Ein zugängliches, leistungsfähiges und vielseitiges Boilerplate für den Bau von SSR-Anwendungen.",
   "Use_Template": "Vorlage verwenden",
   "Learn_More": "Erfahren Sie mehr!",
-  "Approachable": "Zugänglich",
+  "Approachable": "Einfach",
+  "Easy_and_Accessible": "Einfach und zugänglich. Sie schreiben den Inhalt jeder Szene (Dialoge und Vokabeln mit Schlüsselwörtern). Wir kümmern uns um die Übersetzungen und Illustrationen nach Ihren Wünschen.",
+  "Modular": "Modular",
+  "Modular_and_Expandable": "Modular und erweiterbar. Je nach gewähltem Thema und angestrebtem Ziel kann jede Szene eigenständig oder Teil einer Serie mehrerer Szenen sein.",
+  "Accurate": "Präzise",
+  "Accurate_and_Reliable": "Präzise und zuverlässig. Texte und Vokabeln werden von KI vorübersetzt und anschließend von erfahrenen professionellen Dolmetschern überprüft und angepasst.",
   "Add_components_without_sending_additional_client_side_JavaScript_Built_on_the_latest_React_features": "Fügen Sie Komponenten hinzu, ohne zusätzliches clientseitiges JavaScript zu senden. Basierend auf den neuesten React-Funktionen.",
   "Automatic_Image_Font_and_Script_Optimizations_for_improved_UX_and_Core_Web_Vitals": "Automatische Bild-, Schrift- und Skriptoptimierungen für eine verbesserte Benutzererfahrung und Core Web Vitals.",
   "Versatile": "Vielseitig",
@@ -20,7 +25,14 @@
   "Saynètes": "Saynètes",
   "Master_your_communication_with_non-native_speakers": "ihre Kommunikation mit Nicht-Muttersprachlern",
   "Help_break_down_language_barriers_and_cultural_misunderstandings": "Helfen Sie mit, Sprachbarrieren und kulturelle Missverständnisse abzubauen",
-  "Get_started": "Entdecken"
+  "Get_started": "Entdecken",
+  "Scene_1x1": "Szene 1x1",
+  "1x1_description": "1 Skizze x 1 Sprache (zusätzlich zu Französisch)",
+  "Serie_1x5": "Serie 1x5",
+  "1x5_description": "1 Skizze x 5 Sprachen (zusätzlich zu Französisch)",
+  "Scene_by_Language": "/Szene/Sprache",
+  "Custom_Solution": "Maßgeschneiderte Lösungen",
+  "If_you_have_any_special_requests": "Wenn Sie besondere Wünsche haben",
+  "Contact_us": "Kontaktieren Sie uns"
 
-  
 }

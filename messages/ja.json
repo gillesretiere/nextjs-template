@@ -9,7 +9,12 @@
   "An_approachable_performant_and_versatile_boilerplate_for_building_SSR_applications": "SSRアプリケーション構築のためのアプローチしやすく、高性能で多用途なボイラープレート。",
   "Use_Template": "テンプレートを使用",
   "Learn_More": "もっと学ぶ！",
-  "Approachable": "アプローチしやすい",
+  "Approachable": "簡単でアクセスしやすいです。",
+  "Easy_and_Accessible": "簡単でアクセスしやすいです。各シーンの内容（会話やキーワードを含む語彙）をご入力ください。翻訳とイラストはご要望に応じて当社が担当いたします。",
+  "Modular": "モジュール式で拡張可能。",
+  "Modular_and_Expandable": "モジュール式で拡張可能。選択したテーマと目的に応じて、各シーンは独立して作成することも、複数のシーンのシリーズの一部として作成することもできます。",
+  "Accurate": "正確で信頼性があります。",
+  "Accurate_and_Reliable": "正確で信頼性があります。テキストと語彙はAIによって事前に翻訳され、経験豊富なプロの通訳者が確認・調整します。",
   "Add_components_without_sending_additional_client_side_JavaScript_Built_on_the_latest_React_features": "追加のクライアントサイドJavaScriptを送信せずに、最新のReactの機能に基づいたコンポーネントを追加。",
   "Automatic_Image_Font_and_Script_Optimizations_for_improved_UX_and_Core_Web_Vitals": "UXとコアウェブバイタルの改善のための画像、フォント、スクリプトの自動最適化。",
   "Versatile": "多用途",
@@ -20,7 +25,16 @@
   "Saynètes": "Saynètesで",
   "Master_your_communication_with_non-native_speakers": "フランス語を母国語としない人とのコミュニケーションを最適化",
   "Help_break_down_language_barriers_and_cultural_misunderstandings": "言語の壁や文化的な誤解を打破する",
-  "Get_started": "始めましょう"
+  "Get_started": "始めましょう",
+  "Scene_1x1": "シーン1x1",
+  "1x1_description": "1つのスケッチ×1つの言語（フランス語に加えて）",
+  "Serie_1x5": "シリーズ 1x5",
+  "1x5_description": "1スケッチ×5言語（フランス語に加えて）",
+  "Scene_by_Language": "/シーン/言語",
+  "Custom_Solution": "カスタムソリューション",
+  "If_you_have_any_special_requests": "特別なご要望がございましたら",
+  "Contact_us": "お問い合わせ"
+
 
   
 }
