@@ -23,7 +23,7 @@ const space_grotesk = Space_Grotesk({
   variable: '--font-space-grotesk'
 })
 export const metadata: Metadata = {
-  title: 'Next Temp',
+  title: 'Hammer & Marteau',
   description: 'create next app By Yahya Parvar!'
 }
 
@@ -50,12 +50,6 @@ export default function RootLayout({
           themes={[
             'light',
             'dark',
-            'instagram',
-            'facebook',
-            'discord',
-            'netflix',
-            'twilight',
-            'reddit'
           ]}
         >
           <NextIntlClientProvider
