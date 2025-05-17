@@ -1,5 +1,7 @@
 import { useTranslations } from 'next-intl'
 import Button from './components/Button'
+import { FiMail, FiPhone, } from 'react-icons/fi'
+
 
 export default function DashboardPage() {
   const t = useTranslations('')
@@ -21,7 +23,7 @@ export default function DashboardPage() {
         </div>
         <div className='mt-4 flex flex-row gap-4'>
           <a
-            href='https://saynetes.fr'
+            href='https://saynetes.fr/language_page/'
             target='_blank'
           >
             <Button rounded size='large' className='w-full inline-flex items-center whitespace-nowrap font-thin'>
@@ -35,7 +37,7 @@ export default function DashboardPage() {
             </Button>
           </a>
           <a
-            href='https://github.com/yahyaparvar/nextjs-template'
+            href='https://saynetes.fr/'
             target='_blank'
           >
             <Button rounded size='large' variant='secondary' className='font-medium'>
@@ -110,6 +112,8 @@ export default function DashboardPage() {
             <h1 className='my-3 text-2xl font-semibold'>
               {t('Contact_us')}
             </h1>
+            <div className='flex items-center gap-2'><FiMail/><a className='text-sky-500 hover:text-sky-700 text-xs' href="mailto:contact@hammer-marteau.com">contact@hammer-marteau.com</a></div>
+            <div className='flex items-center gap-2'><FiPhone/><span className='relative'>06 30 30 13 64</span></div>
           </div>
         </div>
       </section>
